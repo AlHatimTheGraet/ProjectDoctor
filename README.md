@@ -12,7 +12,7 @@ Select a project, run a scan, and quickly see what needs attention.
 
 <p align="center">
 
-<a href="[https://github.com/AlHatimTheGraet/ProjectDoctor/releases/tag/v1.0.0](https://github.com/AlHatimTheGraet/ProjectDoctor/releases/download/v1.0.0/ProjectDoctorSetup.exe)">
+<a href="https://github.com/AlHatimTheGraet/ProjectDoctor/releases/tag/v1.0.0">
   <img src="https://img.shields.io/badge/DOWNLOAD%20PROJECT%20DOCTOR-1.0.0-blue?style=for-the-badge" alt="Download Project Doctor">
 </a>
 
