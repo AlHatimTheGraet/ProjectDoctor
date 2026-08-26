@@ -110,16 +110,3 @@ Project Doctor uses automated checks and recommendations.
 
 Always review suggested changes before applying them to your project.
 
----
-
-## License
-
-Project Doctor is released under the MIT License.
-
----
-
-# Project Doctor
-
-**Scan. Diagnose. Improve.**
-
-
