@@ -12,7 +12,7 @@ Select a project, run a scan, and quickly see what needs attention.
 
 <p align="center">
 
-<a href="https://github.com/AlHatimTheGraet/ProjectDoctor/releases/tag/v1.0.0">
+<a href="https://github.com/AlHatimTheGraet/ProjectDoctor/releases/latest">
   <img src="https://img.shields.io/badge/DOWNLOAD%20PROJECT%20DOCTOR-1.0.0-blue?style=for-the-badge" alt="Download Project Doctor">
 </a>
 
@@ -20,7 +20,7 @@ Select a project, run a scan, and quickly see what needs attention.
 
 **Windows 10 / 11**
 
-[View all releases](https://github.com/YOUR-USERNAME/ProjectDoctor/releases)
+[View all releases](https://github.com/AlHatimTheGraet/ProjectDoctor/releases)
 
 ---
 
@@ -107,7 +107,9 @@ Detected secrets are masked in scan results.
 
 ## Installation
 
-Download the latest installer from the Releases page.
+Download the latest installer from the Releases page:
+
+https://github.com/AlHatimTheGraet/ProjectDoctor/releases/latest
 
 Run the installer and follow the installation instructions.
 
@@ -130,4 +132,5 @@ Project Doctor is released under the MIT License.
 # Project Doctor
 
 **Scan. Diagnose. Improve.**
+
 
