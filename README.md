@@ -40,17 +40,6 @@ Select a project, run a scan, and quickly see what needs attention.
 
 ---
 
-## Screenshots
-
-### Dashboard
-
-![Project Doctor Dashboard](screenshots/dashboard.png)
-
-### Scan Results
-
-![Project Doctor Scan Results](screenshots/scan-results.png)
-
----
 
 ## How It Works
 
